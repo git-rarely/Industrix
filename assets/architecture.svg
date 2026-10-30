@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="410" viewBox="0 0 1000 410">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#191F27"/><stop offset="100%" stop-color="#101318"/></linearGradient></defs>
+<rect x="1" y="1" width="998" height="408" rx="18" fill="url(#g)" stroke="#303740" stroke-width="2"/>
+<rect x="1" y="1" width="7" height="408" rx="3" fill="#FF7A1A"/>
+<text x="42" y="58" fill="#FF7A1A" font-family="Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="3">INDUSTRIX  /  OVERVIEW</text>
+<text x="42" y="101" fill="#F2F2F2" font-family="Arial, sans-serif" font-size="29" font-weight="700">Архитектура системы</text>
+<text x="46" y="140" fill="#FF9B45" font-family="Arial, sans-serif" font-size="20" font-weight="700">Frontend</text>
+<text x="46" y="178" fill="#A0A7B1" font-family="Arial, sans-serif" font-size="18" font-weight="400">Пользовательский интерфейс: Dashboard, симуляция, оборудование и аналитика.</text>
+<text x="46" y="212" fill="#FF9B45" font-family="Arial, sans-serif" font-size="20" font-weight="700">Backend</text>
+<text x="46" y="250" fill="#A0A7B1" font-family="Arial, sans-serif" font-size="18" font-weight="400">API, бизнес-логика, управление данными и запуск вычислений.</text>
+<text x="46" y="284" fill="#FF9B45" font-family="Arial, sans-serif" font-size="20" font-weight="700">Simulation Engine</text>
+<text x="46" y="322" fill="#A0A7B1" font-family="Arial, sans-serif" font-size="18" font-weight="400">Математическая модель производства, обработка событий и расчёт показателей.</text>
+<text x="46" y="356" fill="#FF9B45" font-family="Arial, sans-serif" font-size="20" font-weight="700">Database</text>
+<text x="46" y="394" fill="#A0A7B1" font-family="Arial, sans-serif" font-size="18" font-weight="400">Хранение предприятий, оборудования, настроек и истории симуляций.</text>
+</svg>

@@ -1,276 +1,68 @@
 <div align="center">
-  <img src="assets/header.svg" width="100%" alt="Industrix">
-</div>
 
-### ПЛАТФОРМА ПРОМЫШЛЕННОГО МОДЕЛИРОВАНИЯ И АНАЛИТИКИ
-
-**Моделируй. Анализируй. Оптимизируй.**
-
-</div>
+<img src="assets/header.svg" width="100%" alt="Industrix — промышленное моделирование и аналитика">
 
 <br>
 
-<div align="center">
+<img src="assets/logo-spin.gif" width="86" alt="Вращающийся логотип Industrix">
 
-![STATUS](https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-35C9A0?style=for-the-badge)
-![PYTHON](https://img.shields.io/badge/PYTHON-PLANNED-3776AB?style=for-the-badge&logo=python)
-![LICENSE](https://img.shields.io/badge/LICENSE-TBD-8995A3?style=for-the-badge)
+<br>
+
+![Статус](https://img.shields.io/badge/СТАТУС-В%20РАЗРАБОТКЕ-FF7A1A?style=for-the-badge)
+![Python](https://img.shields.io/badge/PYTHON-В%20ПЛАНАХ-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Лицензия](https://img.shields.io/badge/ЛИЦЕНЗИЯ-НЕ%20ОПРЕДЕЛЕНА-8995A3?style=for-the-badge)
 
 </div>
 
-<br>
+---
 
-<table>
-<tr>
-<td bgcolor="#111820" style="border: 1px solid #263642; border-radius: 10px; padding: 22px;">
+<p align="center"><img src="assets/about.svg" width="100%" alt="О проекте Industrix"></p>
 
-## ◈ О ПРОЕКТЕ
+<p align="center"><img src="assets/features.svg" width="100%" alt="Основные модули Industrix"></p>
 
-**Industrix** — интеллектуальная платформа для цифрового моделирования промышленных предприятий.
+<p align="center"><img src="assets/architecture.svg" width="100%" alt="Архитектура Industrix"></p>
 
-Проект направлен на создание виртуальных моделей производств, позволяющих наблюдать за технологическими процессами, контролировать состояние оборудования, анализировать показатели и проверять различные производственные сценарии.
-
-Главная задача — предоставить возможность исследовать работу предприятия и оценивать последствия принимаемых решений без вмешательства в реальные производственные процессы.
-
-<br>
-
-**ОСНОВНАЯ ИДЕЯ**
-
-> Время — универсальный ресурс. Его сохранение и рациональное использование — одна из важнейших задач современной промышленности.
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## ◈ ОСНОВНЫЕ ВОЗМОЖНОСТИ
-
-<table>
-<tr>
-<td width="50%" bgcolor="#111820">
-
-### 📊 Dashboard
-
-Главная панель предприятия с основными показателями производства, состоянием оборудования и текущими событиями.
-
-</td>
-<td width="50%" bgcolor="#111820">
-
-### 🏭 Factory Simulation
-
-Виртуальная модель производства с взаимосвязанным оборудованием и производственными процессами.
-
-</td>
-</tr>
-<tr>
-<td width="50%" bgcolor="#111820">
-
-### ⚙️ Machine Management
-
-Управление виртуальным оборудованием, просмотр характеристик и контроль технического состояния.
-
-</td>
-<td width="50%" bgcolor="#111820">
-
-### 📈 Analytics
-
-Интерактивные графики, производственная статистика и анализ эффективности предприятия.
-
-</td>
-</tr>
-<tr>
-<td width="50%" bgcolor="#111820">
-
-### 🧠 Predictive Maintenance
-
-Анализ состояния оборудования, обнаружение аномалий и прогнозирование потенциальных неисправностей.
-
-</td>
-<td width="50%" bgcolor="#111820">
-
-### 🔬 What If? Simulator
-
-Моделирование альтернативных производственных сценариев и анализ их последствий.
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<table>
-<tr>
-<td bgcolor="#111820" style="padding: 22px;">
-
-## ◈ АРХИТЕКТУРА СИСТЕМЫ
-
-Industrix проектируется на основе модульной архитектуры. Каждый компонент будет отвечать за определённую область работы платформы.
+### Схема взаимодействия компонентов
 
 ```mermaid
 flowchart TD
-    A["INDUST RIX"] --> B["Frontend"]
+    A["INDUSTRIX"] --> B["Frontend"]
     A --> C["Backend"]
-
     B --> D["Dashboard"]
     B --> E["Factory Simulation"]
     B --> F["Analytics"]
-
     C --> G["Simulation Engine"]
     C --> H["Machine Management"]
     C --> I["Data Processing"]
-
     G --> J["Production Models"]
     H --> K["Equipment Data"]
     I --> L["Analytics Engine"]
-
     J --> M[("Database")]
     K --> M
     L --> M
 ```
 
-Центральным элементом системы станет **Simulation Engine** — вычислительный модуль, отвечающий за моделирование производственных процессов и взаимодействия оборудования.
+<p align="center"><img src="assets/technology.svg" width="100%" alt="Технологический стек"></p>
 
-</td>
-</tr>
-</table>
+<p align="center"><img src="assets/roadmap.svg" width="100%" alt="Дорожная карта разработки"></p>
 
-<br>
+<p align="center"><img src="assets/principles.svg" width="100%" alt="Принципы разработки"></p>
 
-<table>
-<tr>
-<td bgcolor="#111820" style="padding: 22px;">
+<p align="center"><img src="assets/vision.svg" width="100%" alt="Перспективы развития"></p>
 
-## ◈ ТЕХНОЛОГИЧЕСКИЙ СТЕК
+---
 
 <div align="center">
 
-**BACKEND**
+**INDUST RIX**
 
-<img src="https://skillicons.dev/icons?i=python,fastapi" />
-
-**FRONTEND**
-
-<img src="https://skillicons.dev/icons?i=react,typescript,html,css" />
-
-**DATA & INFRASTRUCTURE**
-
-<img src="https://skillicons.dev/icons?i=postgres,git,github" />
-
-</div>
-
-| Технология | Назначение |
-|:---|:---|
-| Python | Основная логика приложения |
-| FastAPI | Серверная часть и API |
-| React | Пользовательский интерфейс |
-| TypeScript | Разработка интерфейса |
-| NumPy | Математические расчёты |
-| Pandas | Обработка данных |
-| Plotly | Интерактивная визуализация |
-| PostgreSQL | Хранение данных |
-| SQLAlchemy | Работа с базой данных |
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<table>
-<tr>
-<td bgcolor="#111820" style="padding: 22px;">
-
-## ◈ ДОРОЖНАЯ КАРТА
-
-- [ ] **Этап 01 — Фундамент**
-  - [ ] Проектирование архитектуры
-  - [ ] Создание Backend
-  - [ ] Создание Frontend
-  - [ ] Настройка API
-
-- [ ] **Этап 02 — Интерфейс**
-  - [ ] Dashboard
-  - [ ] Система навигации
-  - [ ] Адаптация под мобильные устройства
-
-- [ ] **Этап 03 — Моделирование**
-  - [ ] Simulation Engine
-  - [ ] Виртуальное оборудование
-  - [ ] Производственные линии
-  - [ ] Расчёт производительности
-
-- [ ] **Этап 04 — Аналитика**
-  - [ ] Производственные показатели
-  - [ ] Интерактивные графики
-  - [ ] История производства
-  - [ ] Анализ эффективности
-
-- [ ] **Этап 05 — Интеллектуальные функции**
-  - [ ] Обнаружение аномалий
-  - [ ] Прогнозирование неисправностей
-  - [ ] What If? Simulator
-  - [ ] Оптимизация процессов
-
-- [ ] **Этап 06 — Развитие платформы**
-  - [ ] Пользовательские аккаунты
-  - [ ] Собственные предприятия
-  - [ ] Интеграция реальных данных
-  - [ ] Корпоративные возможности
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<table>
-<tr>
-<td bgcolor="#111820" style="padding: 22px;">
-
-## ◈ ПРИНЦИПЫ РАЗРАБОТКИ
-
-- **Точность** — расчёты основаны на понятных математических моделях.
-- **Модульность** — компоненты независимы и удобны для развития.
-- **Масштабируемость** — архитектура предусматривает расширение платформы.
-- **Прозрачность** — виртуальные данные не выдаются за реальные измерения.
-- **Практичность** — каждая функция решает конкретную задачу.
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<table>
-<tr>
-<td bgcolor="#111820" style="padding: 22px;">
-
-## ◈ ПЕРСПЕКТИВЫ РАЗВИТИЯ
-
-В долгосрочной перспективе Industrix должен превратиться в полноценную платформу цифровых двойников промышленных предприятий.
-
-Пользователи смогут создавать виртуальные производственные среды, проверять инженерные решения, анализировать работу оборудования и оценивать последствия изменений до их внедрения на реальном предприятии.
-
-**Не просто мониторинг. Не просто аналитика. Новый подход к пониманию промышленного производства.**
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-# INDUST RIX
-
-**Моделируй. Анализируй. Оптимизируй.**
+Моделируй. Анализируй. Оптимизируй.
 
 <sub>Создаём будущее промышленной аналитики.</sub>
 
 <br><br>
 
-![Last Commit](https://img.shields.io/github/last-commit/leogityi/Industrix?style=flat-square&color=35C9A0)
-![Repository Size](https://img.shields.io/github/repo-size/leogityi/Industrix?style=flat-square&color=35C9A0)
+![Последний коммит](https://img.shields.io/github/last-commit/leogityi/Industrix?style=flat-square&color=FF7A1A)
+![Размер репозитория](https://img.shields.io/github/repo-size/leogityi/Industrix?style=flat-square&color=FF7A1A)
 
 </div>

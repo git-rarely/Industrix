@@ -1,38 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#191E25"/>
-      <stop offset="100%" stop-color="#0B0D10"/>
-    </linearGradient>
-  </defs>
-
-  <rect width="1000" height="300" rx="18" fill="url(#bg)"/>
-  <rect x="0" y="0" width="8" height="300" rx="4" fill="#FF7A1A"/>
-
-  <g opacity="0.12" stroke="#FF7A1A" fill="none">
-    <path d="M650 0 L950 300"/>
-    <path d="M750 0 L1000 250"/>
-    <path d="M850 0 L1000 150"/>
-    <circle cx="850" cy="150" r="100"/>
-    <circle cx="850" cy="150" r="140"/>
-  </g>
-
-  <text x="65" y="125" fill="#F2F2F2"
-        font-family="Arial" font-size="65" font-weight="bold">
-    INDUST RIX
-  </text>
-
-  <text x="68" y="170" fill="#FF7A1A"
-        font-family="Arial" font-size="19" letter-spacing="4">
-    INDUSTRIAL INTELLIGENCE PLATFORM
-  </text>
-
-  <text x="68" y="225" fill="#9299A3"
-        font-family="Arial" font-size="17">
-    Моделируй. Анализируй. Оптимизируй.
-  </text>
-
-  <circle cx="930" cy="60" r="5" fill="#FF7A1A"/>
-  <circle cx="950" cy="60" r="5" fill="#FF7A1A" opacity="0.4"/>
-  <circle cx="970" cy="60" r="5" fill="#FF7A1A" opacity="0.2"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="300" viewBox="0 0 1100 300">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#1B2028"/><stop offset="100%" stop-color="#0B0D10"/></linearGradient></defs>
+<rect width="1100" height="300" rx="20" fill="url(#bg)"/><rect width="9" height="300" rx="4" fill="#FF7A1A"/>
+<g opacity=".14" stroke="#FF7A1A" fill="none"><circle cx="900" cy="150" r="90"/><circle cx="900" cy="150" r="125"/><path d="M700 0L1000 300M820 0L1100 280M950 0L1100 150"/></g>
+<text x="65" y="125" fill="#F2F2F2" font-family="Arial,sans-serif" font-size="68" font-weight="700">INDUST RIX</text>
+<text x="70" y="174" fill="#FF7A1A" font-family="Arial,sans-serif" font-size="20" letter-spacing="4">INDUSTRIAL INTELLIGENCE &amp; SIMULATION</text>
+<text x="70" y="230" fill="#A0A7B1" font-family="Arial,sans-serif" font-size="21">Моделируй. Анализируй. Оптимизируй.</text>
 </svg>

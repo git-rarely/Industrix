@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="530" viewBox="0 0 1000 530">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#191F27"/><stop offset="100%" stop-color="#101318"/></linearGradient></defs>
+<rect x="1" y="1" width="998" height="528" rx="18" fill="url(#g)" stroke="#303740" stroke-width="2"/>
+<rect x="1" y="1" width="7" height="528" rx="3" fill="#FF7A1A"/>
+<text x="42" y="58" fill="#FF7A1A" font-family="Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="3">INDUSTRIX  /  OVERVIEW</text>
+<text x="42" y="101" fill="#F2F2F2" font-family="Arial, sans-serif" font-size="29" font-weight="700">Принципы разработки</text>
+<text x="46" y="140" fill="#FF9B45" font-family="Arial, sans-serif" font-size="19" font-weight="700">ТОЧНОСТЬ</text>
+<text x="46" y="176" fill="#A0A7B1" font-family="Arial, sans-serif" font-size="18" font-weight="400">Расчёты опираются на прозрачные математические модели.</text>
+<text x="46" y="210" fill="#FF9B45" font-family="Arial, sans-serif" font-size="19" font-weight="700">МОДУЛЬНОСТЬ</text>
+<text x="46" y="246" fill="#A0A7B1" font-family="Arial, sans-serif" font-size="18" font-weight="400">Компоненты удобно тестировать, поддерживать и развивать.</text>
+<text x="46" y="280" fill="#FF9B45" font-family="Arial, sans-serif" font-size="19" font-weight="700">МАСШТАБИРУЕМОСТЬ</text>
+<text x="46" y="316" fill="#A0A7B1" font-family="Arial, sans-serif" font-size="18" font-weight="400">Архитектура предусматривает дальнейшее расширение.</text>
+<text x="46" y="350" fill="#FF9B45" font-family="Arial, sans-serif" font-size="19" font-weight="700">ПРОЗРАЧНОСТЬ</text>
+<text x="46" y="386" fill="#A0A7B1" font-family="Arial, sans-serif" font-size="18" font-weight="400">Демонстрационные данные не выдаются за реальные измерения.</text>
+<text x="46" y="420" fill="#FF9B45" font-family="Arial, sans-serif" font-size="19" font-weight="700">ПРАКТИЧНОСТЬ</text>
+<text x="46" y="456" fill="#A0A7B1" font-family="Arial, sans-serif" font-size="18" font-weight="400">Каждая функция должна решать конкретную задачу.</text>
+</svg>
