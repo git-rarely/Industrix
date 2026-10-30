@@ -1,6 +1,6 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=48&duration=3000&pause=1000&color=35C9A0&center=true&vCenter=true&width=600&height=80&lines=INDUST+RIX" />
+  <img src="assets/header.svg" width="100%" alt="Industrix">
+</div>
 
 ### ПЛАТФОРМА ПРОМЫШЛЕННОГО МОДЕЛИРОВАНИЯ И АНАЛИТИКИ
 
